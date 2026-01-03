@@ -106,11 +106,11 @@ which is how regression-based forecasting works in practice.
 ## 📂 Dataset
 
 - Historical WPL ball-by-ball data  
-- Source: *(Add Kaggle dataset link here)*
+- Source: *([Add Kaggle dataset link here](https://www.kaggle.com/datasets/aravindas01/wpl-india))*
 
 ---
 
 ## 📬 Contact
 
 - LinkedIn: *(www.linkedin.com/in/rishibans-panigrahi-0aa0a2324)*  
-- GitHub: *(Your GitHub profile)*  
+- GitHub: *([Your GitHub profile](https://github.com/rishibanspanigrahi1818-glitch/wpl-2026-score-estimation.git))*  
